@@ -4,13 +4,14 @@ This application has been started with the vue-cli and webpack-simple
 
 ## Clone or download the project in you local system and follow the steps.
 
+## Open Terminal
 ### Server Setup(install json server globally)
 npm install json-server -g
 
-### Allocating Database(go to app root directory where json file is stored)
+### Allocating Database(go to App folder where json file is stored)
 json-server todo.json
 
-### Open new Terminal
+### Open new Terminal(go to App folder)
 ### Project setup
 npm install
 
